@@ -11,3 +11,4 @@ git config branch.master.merge refs/heads/master
 git pull origin master --allow-unrelated-histories
 git commit -m "commit"
 git push -u origin master
+exit
